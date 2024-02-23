@@ -1,0 +1,17 @@
+/* App.css */
+.chart-container {
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.chart-title {
+  text-align: center;
+}
+
+.chart-footer {
+  text-align: center;
+  padding-top: 10px;
+  font-style: italic;
+}
+
